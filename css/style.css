@@ -119,7 +119,7 @@ input:focus {
 button { padding: 15px; background: var(--orange-500); border: none; color: white; font-weight: 800; cursor: pointer; border-radius: 8px; margin-top: 10px; }
 
 .ticket-card {
-    background: url('https://uploads.onecompiler.io/454dn93ez/457chmas4/pattern-ticket.svg') no-repeat center / 100% 100%;
+    background: url('assets/pattern-ticket.svg') no-repeat center / 100% 100%;
     aspect-ratio: 600 / 280;
     width: 100%;
     max-width: 500px;
