@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;500;700;800&display=swap');
-
 :root {
     --neutral-0: hsl(0, 0%, 100%);
     --orange-500: hsl(7, 88%, 67%);
@@ -9,7 +7,7 @@
 
 body {
     font-family: "Inconsolata", monospace;
-    background-image: url('https://uploads.onecompiler.io/454dn93ez/457chmas4/background-desktop.png');
+    background-image: url('assets/background-desktop.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
