@@ -7,7 +7,7 @@
 
 body {
     font-family: "Inconsolata", monospace;
-    background-image: url('assets/background-desktop.png');
+    background: var(--neutral-900) url("assetsbackground-mobile.png") center / cover;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
